@@ -71,3 +71,9 @@ To explore freshwater–saltwater salinity gradients as a renewable energy resou
 ## 👨‍💻 Project
 
 Developed as an engineering innovation project for Smart India Hackathon (SIH).
+
+## 🎥 Project Demonstration
+
+Watch our complete project demonstration:
+
+▶️ [Watch the 5-Minute Project Video on YouTube]([PASTE_YOUR_YOUTUBE_LINK_HERE](https://youtu.be/4XNSNpnmWSU))
